@@ -1,4 +1,4 @@
-# student-project
+# studentA-project
   - Clear project title
    - Project description
    - Installation instructions
